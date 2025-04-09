@@ -10,9 +10,9 @@ An **LC circuit** consists of an **inductor (L)** and a **capacitor (C)** connec
 - **lc_sim.png**: Output waveform showing the oscillations in the LC circuit.
 
 ## How to Simulate
-1. Open the **lc_circuit.asc** file in LTspice.
+1. Open the **LC_Circuit.asc** file in LTspice.
 2. Run the **Transient Analysis** to observe the oscillations in the circuit.
-3. View the **lc_sim.png** image for the output waveform of the simulation.
+3. View the **LC_Circuit.png** image for the output waveform of the simulation.
 
 ## Notes
 - The circuit demonstrates basic resonance behavior.
